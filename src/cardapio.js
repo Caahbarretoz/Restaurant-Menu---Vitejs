@@ -21,7 +21,7 @@ export const enroladinhoMignon = {
   descricao: 'Finíssimas fatias de filé mignon enroladas no parmesão',
 };
 const casal20 = {
-  nome: 'Casal 20',
+  nome: 'Duo Burguer',
   preco: 'R$ 29,00',
   imagem: casal20Img,
   descricao: 'Casal perfeito pão de alho caseiro e linguiça toscana grill',
